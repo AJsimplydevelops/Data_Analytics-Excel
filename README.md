@@ -7,8 +7,8 @@ First, we must uncover the dataset and it’s task description. Then we must dis
 
 
 
-Exploratory Data Analysis
-Dataset and task description – describe the data analytics task for the chosen dataset
+# Exploratory Data Analysis
+# Dataset and task description – describe the data analytics task for the chosen dataset
 The task associated with this dataset is Regression because the values in the target data (numerical data) are continuous (minimum to maximum).
 We can predict continuous variables like the prediction of bike rentals. For instance, we can forecast these results from past data, and we can use the regression algorithm. Once complete, we can predict bike rentals for future days. This algorithm can be divided into linear and non-linear regression.  Although, various factors change through continuous data. The corresponding weather, seasonal information, and travel are all input values that correspond with the continuous output of the number of bike rentals.
 
