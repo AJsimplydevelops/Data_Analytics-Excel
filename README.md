@@ -1,7 +1,7 @@
-# Data_Analytics-Excel
-
-Project 1 Report:
+# Project 1 Report:
 Exploratory Data Analysis
+
+
 Allen Martillano
 martillanoallen@gmail.com
 Abstract – In this report, the purpose of this data analytics project is to perfrom descriptive statistics with exploratory data analysis using tools like excel. Futhermore, using data from 2011-2012 of the bike sharing dataset. 
