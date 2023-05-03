@@ -20,9 +20,9 @@ Hour dataset	Day dataset
 number of instances	number of numerical variables	number of categorical variables	number of instances	number of numerical variables	number of categorical variables	
 17379	8	7	731	7	7	
 
-Hour dataset numerical viarables
-Description	Domain
-dteday : date	date
+# Hour dataset numerical viarables
+Description	Domain, 
+dteday : date	date, 
 season : season (1:winter, 2:spring, 3:summer, 4:fall)	categorical
 yr : year (0: 2011, 1:2012)	categorical
 mnth : month ( 1 to 12)	categorical
