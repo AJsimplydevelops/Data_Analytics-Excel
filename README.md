@@ -50,5 +50,23 @@ registered: count of registered users	numerical
 cnt: count of total rental bikes including both casual and registered	numerical
 
 
-Further analysis on the excel file.
+The variables contained are season, temp, and cnt. Based on this pivot table in winter, based on temp, the average number of users overall is 2604.						
+In spring (2), based on temp, the average number of users overall is 4992. In summer(3), 5644 & fall(4) is 4728.
 
+
+
+![image](https://user-images.githubusercontent.com/78631693/236026155-f09f2ce4-ae2a-437f-bb18-25e72ec970c2.png)
+
+# linear regression for temperature and windspeed
+Since they have a correlation coefficient of -0.15 We can conclude this has a negative correlation, and it shows that the 2 variables having a weaker relationship.							
+When Temperature changes, the windspeed changes in the opposite direction.							
+
+For our coefficient of a value for our intercept of 0.566448737 can indicate a moderatly negative relation							
+Since our intercept value is 0.22. This means that the average temperature is 0.22 when windspeed is equal to zero.							
+
+Since t test = 0.0000178686. 0.0000178686 < 0.05 the level of significance. We can conclude there is a significantly different in regression relation In regards to the t test, there is a significance negative relation between. the two numerical variables of temp and windspeed.								
+
+
+![image](https://user-images.githubusercontent.com/78631693/236027043-feb06544-51c4-418e-ad2f-36d044efcfd4.png)
+
+further analysis on excel file
