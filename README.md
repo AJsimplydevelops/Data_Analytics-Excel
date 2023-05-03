@@ -1,6 +1,7 @@
 # Project Report: Exploratory Data Analysis
 
-Abstract – In this report, the purpose of this data analytics project is to perfrom descriptive statistics with exploratory data analysis using tools like excel. Futhermore, using data from 2011-2012 of the bike sharing dataset. 
+# Abstract 
+In this report, the purpose of this data analytics project is to perfrom descriptive statistics with exploratory data analysis using tools like excel. Futhermore, using data from 2011-2012 of the bike sharing dataset. 
 Introduction 
 First, we must uncover the dataset and it’s task description. Then we must discover the descriptive statistics on If they are numerical, or categorical variables. Then we must create a frequency table on considering one categorical variable, and then creating a pivot table. For the numerical variables we must uncover their statistics (min,max,avg,etc). Then create a histogram, and a box plot for one numerical variable. After we must perform simple liner regression, and multiple linear regression models. To determine which model best fits to be able to predict the number of bike rentals (hourly and daily) based on previous data on enviornmental conditions and other variables. Further analysis on the excel file.
 
