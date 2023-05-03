@@ -13,22 +13,22 @@ We can predict continuous variables like the prediction of bike rentals. For ins
 # How is the dataset used to solve our business problem? 
 We can predict the number of bike rentals (hourly and daily) based on previous data on environmental conditions and other variables.
 
-
-
-
-Hour dataset	Day dataset	
-number of instances	number of numerical variables	number of categorical variables	number of instances	number of numerical variables	number of categorical variables	
-17379	8	7	731	7	7	
-
 # Hour dataset numerical viarables
-Description	Domain, 
+Description	Domain: 
 dteday : date	date, 
+
 season : season (1:winter, 2:spring, 3:summer, 4:fall)	categorical
+
 yr : year (0: 2011, 1:2012)	categorical
+
 mnth : month ( 1 to 12)	categorical
+
 holiday : weather day is holiday or not	categorical
+
 weekday : day of the week	categorical
+
 workingday : if day is neither weekend nor holiday is 1, otherwise is 0.	categorical
+
 weathersit :
 - 1: Clear, Few clouds, Partly cloudy, Partly cloudy
 - 2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
