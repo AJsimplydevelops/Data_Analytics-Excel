@@ -6,16 +6,14 @@ In this report, the purpose of this data analytics project is to perfrom descrip
 First, we must uncover the dataset and it’s task description. Then we must discover the descriptive statistics on If they are numerical, or categorical variables. Then we must create a frequency table on considering one categorical variable, and then creating a pivot table. For the numerical variables we must uncover their statistics (min,max,avg,etc). Then create a histogram, and a box plot for one numerical variable. After we must perform simple liner regression, and multiple linear regression models. To determine which model best fits to be able to predict the number of bike rentals (hourly and daily) based on previous data on enviornmental conditions and other variables. Further analysis on the excel file.
 
 
-
-# Exploratory Data Analysis
 # Dataset and task description – describe the data analytics task for the chosen dataset
 The task associated with this dataset is Regression because the values in the target data (numerical data) are continuous (minimum to maximum).
 We can predict continuous variables like the prediction of bike rentals. For instance, we can forecast these results from past data, and we can use the regression algorithm. Once complete, we can predict bike rentals for future days. This algorithm can be divided into linear and non-linear regression.  Although, various factors change through continuous data. The corresponding weather, seasonal information, and travel are all input values that correspond with the continuous output of the number of bike rentals.
 
-How is the dataset used to solve a business problem? 
+# How is the dataset used to solve our business problem? 
 We can predict the number of bike rentals (hourly and daily) based on previous data on environmental conditions and other variables.
 
-Show the dataset characteristics, namely the number of instances, the number of numerical and categorical variables, and the description and the domain for each.
+
 
 
 Hour dataset	Day dataset	
