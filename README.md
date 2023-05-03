@@ -13,19 +13,19 @@ We can predict continuous variables like the prediction of bike rentals. For ins
 # How is the dataset used to solve our business problem? 
 We can predict the number of bike rentals (hourly and daily) based on previous data on environmental conditions and other variables.
 
-# Hour dataset numerical viarables
+# Hour dataset numerical and categorical viarables
 Description	Domain: 
 dteday : date	date, 
 
-season : season (1:winter, 2:spring, 3:summer, 4:fall)	categorical
+season : season (1:winter, 2:spring, 3:summer, 4:fall).	categorical
 
-yr : year (0: 2011, 1:2012)	categorical
+yr : year (0: 2011, 1:2012).	categorical
 
-mnth : month ( 1 to 12)	categorical
+mnth : month ( 1 to 12).	categorical
 
 holiday : weather day is holiday or not	categorical
 
-weekday : day of the week	categorical
+weekday : day of the week.	categorical
 
 workingday : if day is neither weekend nor holiday is 1, otherwise is 0.	categorical
 
@@ -34,12 +34,19 @@ weathersit :
 - 2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
 - 3: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
 - 4: Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog	categorical
+- 
 temp : Normalized temperature in Celsius. The values are divided to 41 (max)	numerical
+
 atemp: Normalized feeling temperature in Celsius. The values are divided to 50 (max)	numerical
+
 hum: Normalized humidity. The values are divided to 100 (max)	numerical
+
 windspeed: Normalized wind speed. The values are divided to 67 (max)	numerical
+
 casual: count of casual users	numerical
+
 registered: count of registered users	numerical
+
 cnt: count of total rental bikes including both casual and registered	numerical
 
 
