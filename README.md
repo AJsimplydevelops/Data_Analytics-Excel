@@ -1,7 +1,5 @@
 # Project Report: Exploratory Data Analysis
 
-link to dataset: https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
-
 # Abstract 
 In this report, the purpose of this data analytics project is to perfrom descriptive statistics with exploratory data analysis using tools like excel. Futhermore, using data from 2011-2012 of the bike sharing dataset. 
 # Introduction 
