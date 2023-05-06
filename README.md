@@ -1,4 +1,4 @@
-# Project Report: Exploratory Data Analysis
+# Project Report: Exploratory Data Analysis With Excel
 
 # Abstract 
 In this report, the purpose of this data analytics project is to perfrom descriptive statistics with exploratory data analysis using tools like excel. Futhermore, using data from 2011-2012 of the bike sharing dataset. 
